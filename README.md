@@ -50,8 +50,8 @@ This project uses the publicly available **IBM HR Analytics Employee Attrition D
 - [x] ETL pipeline
 - [x] Exploratory data analysis (EDA)
 - [ ] Feature engineering
-- [ ] Train XGBoost model
-- [ ] Model evaluation
+- [x] Train XGBoost model
+- [x] Model evaluation
 - [ ] SHAP explainability
 - [ ] Power BI dashboard
 - [ ] Streamlit application
